@@ -1,2 +1,2 @@
-# ECSE205L_Assignments
-ECSE205L Assignments
+# ECSE205L_Assignment
+Basic KNN Classifier in java.
